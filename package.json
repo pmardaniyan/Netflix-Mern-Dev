@@ -1,0 +1,13 @@
+{
+  "name": "mern-stack-movie-netflix-persian",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Creatr Server With Express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "P-Mardaniyan",
+  "license": "ISC"
+}
